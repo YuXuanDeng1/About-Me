@@ -1,0 +1,498 @@
+TICKER,Name,Sector,Sector_Code
+A,Agilent Technologies Inc,Health Care,6.0
+AABA,,,
+AAPL,Apple Inc.,Information Technology,8.0
+ABC,AmerisourceBergen Corp,Health Care,6.0
+ABI,,,
+ABKFQ,,,
+ABT,Abbott Laboratories,Health Care,6.0
+ACAS,,,
+ACS,,,
+ADBE,Adobe Systems Inc,Information Technology,8.0
+ADI,Analog Devices Inc,Information Technology,8.0
+ADM,Archer-Daniels-Midland Co,Consumer Staples,3.0
+ADP,Automatic Data Processing,Information Technology,8.0
+ADSK,Autodesk Inc,Information Technology,8.0
+AEE,Ameren Corp,Utilities,11.0
+AEP,American Electric Power,Utilities,11.0
+AES,AES Corp,Utilities,11.0
+AET,Aetna Inc,Health Care,6.0
+AFL,AFLAC Inc,Financials,5.0
+AGN,Allergan Inc,Health Care,6.0
+AIG,American Intl Group Inc,Financials,5.0
+AIV,Apartment Investment & Mgmt,Financials,5.0
+AIZ,Assurant Inc,Financials,5.0
+AKAM,Akamai Technologies Inc,Information Technology,8.0
+ALL,Allstate Corp,Financials,5.0
+ALTR,Altera Corp,Information Technology,8.0
+AMAT,Applied Materials Inc,Information Technology,8.0
+AMD,Advanced Micro Devices,Information Technology,8.0
+AMGN,Amgen Inc,Health Care,6.0
+AMP,Ameriprise Financial,Financials,5.0
+AMT,American Tower Corp A,Financials,5.0
+AMZN,Amazon.com Inc,Consumer,1.0
+AN,AutoNation Inc,Consumer,1.0
+ANDV,,,
+ANF,Abercrombie & Fitch Company A,Consumer,1.0
+ANTM,,,
+AON,Aon plc,Financials,5.0
+APA,Apache Corporation,Energy,4.0
+APC,Anadarko Petroleum Corp,Energy,4.0
+APD,Air Products & Chemicals Inc,Materials,9.0
+APOL,Apollo Group Inc,Consumer,1.0
+ARNC,,,
+ASH,,,
+ATI,Allegheny Technologies Inc,Materials,9.0
+AVB,"AvalonBay Communities, Inc.",Financials,5.0
+AVP,Avon Products,Consumer Staples,3.0
+AVY,Avery Dennison Corp,Industrials,7.0
+AW,,,
+AXP,American Express Co,Financials,5.0
+AYE,,,
+AZO,AutoZone Inc,Consumer,1.0
+BA,Boeing Company,Industrials,7.0
+BAC,Bank of America Corp,Financials,5.0
+BAX,Baxter International Inc.,Health Care,6.0
+BBBY,Bed Bath & Beyond,Consumer,1.0
+BBT,BB&T Corporation,Financials,5.0
+BBY,Best Buy Co. Inc.,Consumer,1.0
+BC,,,
+BCR,Bard (C.R.) Inc.,Health Care,6.0
+BDK,,,
+BDX,Becton Dickinson,Health Care,6.0
+BEAM,Beam Inc.,Consumer,1.0
+BEN,Franklin Resources,Financials,5.0
+BF.B,Brown-Forman Corporation,Consumer Staples,3.0
+BHGE,,,
+BIG,Big Lots Inc.,Consumer,1.0
+BIIB,BIOGEN IDEC Inc.,Health Care,6.0
+BJS,,,
+BK,The Bank of New York Mellon Corp.,Financials,5.0
+BLL,Ball Corp,Materials,9.0
+BMC,BMC Software,Information Technology,8.0
+BMS,Bemis Company,Materials,9.0
+BMY,Bristol-Myers Squibb,Health Care,6.0
+BNI,,,
+BRCM,Broadcom Corporation,Information Technology,8.0
+BRL,,,
+BSC,,,
+BSX,Boston Scientific,Health Care,6.0
+BTUUQ,,,
+BUD,,,
+BXP,Boston Properties,Financials,5.0
+C,Citigroup Inc.,Financials,5.0
+CA,"CA, Inc.",Information Technology,8.0
+CAG,ConAgra Foods Inc.,Consumer Staples,3.0
+CAH,Cardinal Health Inc.,Health Care,6.0
+CAT,Caterpillar Inc.,Industrials,7.0
+CB,Chubb Corp.,Financials,5.0
+CBE,Cooper Industries,Industrials,7.0
+CBH,,,
+CBRE,,,
+CBS,CBS Corp.,Consumer,1.0
+CCE,Coca-Cola Enterprises,Consumer Staples,3.0
+CCL,Carnival Corp.,Consumer,1.0
+CCTYQ,,,
+CCU,,,
+CEG,,,
+CELG,Celgene Corp.,Health Care,6.0
+CFC,,,
+CHK,Chesapeake Energy,Energy,4.0
+CHRW,C. H. Robinson Worldwide,Industrials,7.0
+CI,CIGNA Corp.,Health Care,6.0
+CIEN,,,
+CINF,Cincinnati Financial,Financials,5.0
+CITGQ,,,
+CL,Colgate-Palmolive,Consumer Staples,3.0
+CLX,Clorox Co.,Consumer Staples,3.0
+CMA,Comerica Inc.,Financials,5.0
+CMCSA,Comcast Corp.,Consumer,1.0
+CME,CME Group Inc.,Financials,5.0
+CMI,Cummins Inc.,Industrials,7.0
+CMS,CMS Energy,Utilities,11.0
+CNP,CenterPoint Energy,Utilities,11.0
+CNX,CONSOL Energy Inc.,Energy,4.0
+COF,Capital One Financial,Financials,5.0
+COL,Rockwell Collins,Industrials,7.0
+COP,ConocoPhillips,Energy,4.0
+COST,Costco Co.,Consumer Staples,3.0
+COV,Covidien plc,Health Care,6.0
+CPB,Campbell Soup,Consumer Staples,3.0
+CPWR,,,
+CSCO,Cisco Systems,Information Technology,8.0
+CSX,CSX Corp.,Industrials,7.0
+CTAS,Cintas Corporation,Industrials,7.0
+CTL,CenturyLink Inc,Telecommunications Services,10.0
+CTSH,Cognizant Technology Solutions,Information Technology,8.0
+CTX,,,
+CTXS,Citrix Systems,Information Technology,8.0
+CVG,,,
+CVH,Coventry Health Care Inc.,Health Care,6.0
+CVS,CVS Caremark Corp.,Consumer Staples,3.0
+CVX,Chevron Corp.,Energy,4.0
+D,Dominion Resources,Utilities,11.0
+DD,Du Pont (E.I.),Materials,9.0
+DDR,,,
+DDS,,,
+DE,Deere & Co.,Industrials,7.0
+DELL,Dell Inc.,Information Technology,8.0
+DF,Dean Foods,Consumer Staples,3.0
+DFS,Discover Financial Services,Financials,5.0
+DGX,Quest Diagnostics,Health Care,6.0
+DHI,D. R. Horton,Consumer,1.0
+DHR,Danaher Corp.,Industrials,7.0
+DIS,Walt Disney Co.,Consumer Discretionary,2.0
+DOV,Dover Corp.,Industrials,7.0
+DOW,Dow Chemical,Materials,9.0
+DRI,Darden Restaurants,Consumer,1.0
+DTE,DTE Energy Co.,Utilities,11.0
+DTV,DirecTV,Consumer,1.0
+DUK,Duke Energy,Utilities,11.0
+DVN,Devon Energy Corp.,Energy,4.0
+DXC,,,
+DYN,,,
+EA,Electronic Arts,Information Technology,8.0
+EBAY,eBay Inc.,Information Technology,8.0
+ECL,Ecolab Inc.,Materials,9.0
+ED,Consolidated Edison,Utilities,11.0
+EDS,,,
+EFX,Equifax Inc.,Financials,5.0
+EIX,Edison Int'l,Utilities,11.0
+EKDKQ,,,
+EL,Estee Lauder Cos.,Consumer Staples,3.0
+EMC,EMC Corp.,Information Technology,8.0
+EMN,Eastman Chemical,Materials,9.0
+EMR,Emerson Electric,Industrials,7.0
+EOG,EOG Resources,Energy,4.0
+EP,,,
+EQ,,,
+EQR,Equity Residential,Financials,5.0
+ESRX,Express Scripts,Health Care,6.0
+ESV,Ensco plc,Energy,4.0
+ETFC,E-Trade,Financials,5.0
+ETN,Eaton Corp.,Industrials,7.0
+ETR,Entergy Corp.,Utilities,11.0
+EXC,Exelon Corp.,Utilities,11.0
+EXPD,Expeditors Int'l,Industrials,7.0
+EXPE,Expedia Inc.,Consumer,1.0
+F,Ford Motor,Consumer,1.0
+FCX,Freeport-McMoran Cp & Gld,Materials,9.0
+FDO,Family Dollar Stores,Consumer,1.0
+FDX,FedEx Corporation,Industrials,7.0
+FE,FirstEnergy Corp,Utilities,11.0
+FHN,First Horizon National,Financials,5.0
+FII,Federated Investors Inc.,Financials,5.0
+FIS,Fidelity National Information Services,Information Technology,8.0
+FISV,Fiserv Inc,Information Technology,8.0
+FITB,Fifth Third Bancorp,Financials,5.0
+FLR,Fluor Corp.,Industrials,7.0
+FMCC,,,
+FNMA,,,
+FOXA,,,
+FRX,Forest Laboratories,Health Care,6.0
+FTR,Frontier Communications,Telecommunications Services,10.0
+GAS,AGL Resources Inc.,Utilities,11.0
+GD,General Dynamics,Industrials,7.0
+GE,General Electric,Industrials,7.0
+GENZ,,,
+GGP,,,
+GHC,,,
+GILD,Gilead Sciences,Health Care,6.0
+GIS,General Mills,Consumer Staples,3.0
+GLW,Corning Inc.,Industrials,7.0
+GME,GameStop Corp.,Consumer,1.0
+GNW,Genworth Financial Inc.,Financials,5.0
+GOOGL,,,
+GPC,Genuine Parts,Consumer,1.0
+GPS,Gap (The),Consumer,1.0
+GR,,,
+GS,Goldman Sachs Group,Financials,5.0
+GT,Goodyear Tire & Rubber,Consumer,1.0
+GWW,Grainger (W.W.) Inc.,Industrials,7.0
+HAL,Halliburton Co.,Energy,4.0
+HAR,Harman Int'l Industries,Consumer,1.0
+HAS,Hasbro Inc.,Consumer,1.0
+HBAN,Huntington Bancshares,Financials,5.0
+HCBK,Hudson City Bancorp,Financials,5.0
+HD,Home Depot,Consumer,1.0
+HES,Hess Corporation,Energy,4.0
+HET,,,
+HIG,Hartford Financial Svc.Gp.,Financials,5.0
+HNZ,Heinz (H.J.),Consumer Staples,3.0
+HOG,Harley-Davidson,Consumer,1.0
+HON,Honeywell Int'l Inc.,Industrials,7.0
+HOT,Starwood Hotels & Resorts,Consumer Discretionary,2.0
+HPC,,,
+HPQ,Hewlett-Packard,Information Technology,8.0
+HRB,Block H&R,Consumer,1.0
+HSH,,,
+HSP,Hospira Inc.,Health Care,6.0
+HST,Host Hotels & Resorts,Financials,5.0
+HSY,The Hershey Company,Consumer Staples,3.0
+HUM,Humana Inc.,Health Care,6.0
+IAC,,,
+IBM,International Bus. Machines,Information Technology,8.0
+ICE,IntercontinentalExchange Inc.,Financials,5.0
+IFF,International Flav/Frag,Materials,9.0
+IGT,International Game Technology,Consumer,1.0
+INTC,Intel Corp.,Information Technology,8.0
+INTU,Intuit Inc.,Information Technology,8.0
+IP,International Paper,Materials,9.0
+IPG,Interpublic Group,Consumer,1.0
+IR,Ingersoll-Rand PLC,Industrials,7.0
+ITT,,,
+ITW,Illinois Tool Works,Industrials,7.0
+JAVA,,,
+JBL,Jabil Circuit,Information Technology,8.0
+JCI,Johnson Controls,Consumer,1.0
+JCP,Penney (J.C.),Consumer,1.0
+JEC,Jacobs Engineering Group,Industrials,7.0
+JEF,,,
+JNJ,Johnson & Johnson,Health Care,6.0
+JNPR,Juniper Networks,Information Technology,8.0
+JNS,,,
+JNY,,,
+JPM,JPMorgan Chase & Co.,Financials,5.0
+JWN,Nordstrom,Consumer,1.0
+K,Kellogg Co.,Consumer Staples,3.0
+KATE,,,
+KBH,,,
+KEY,KeyCorp,Financials,5.0
+KG,,,
+KIM,Kimco Realty,Financials,5.0
+KLAC,KLA-Tencor Corp.,Information Technology,8.0
+KMB,Kimberly-Clark,Consumer Staples,3.0
+KO,Coca Cola Co.,Consumer Staples,3.0
+KR,Kroger Co.,Consumer Staples,3.0
+KSS,Kohl's Corp.,Consumer,1.0
+L,Loews Corp.,Financials,5.0
+LB,,,
+LEG,Leggett & Platt,Consumer,1.0
+LEHMQ,,,
+LEN,Lennar Corp.,Consumer,1.0
+LH,Laboratory Corp. of America Holding,Health Care,6.0
+LLL,L-3 Communications Holdings,Industrials,7.0
+LLTC,Linear Technology Corp.,Information Technology,8.0
+LLY,Lilly (Eli) & Co.,Health Care,6.0
+LM,Legg Mason,Financials,5.0
+LMT,Lockheed Martin Corp.,Industrials,7.0
+LNC,Lincoln National,Financials,5.0
+LOW,Lowe's Cos.,Consumer,1.0
+LSI,LSI Corporation,Information Technology,8.0
+LUV,Southwest Airlines,Industrials,7.0
+LXK,Lexmark Int'l Inc,Information Technology,8.0
+M,Macy's Inc.,Consumer,1.0
+MAR,Marriott Int'l.,Consumer,1.0
+MAS,Masco Corp.,Industrials,7.0
+MAT,Mattel Inc.,Consumer,1.0
+MBI,,,
+MCD,McDonald's Corp.,Consumer,1.0
+MCHP,Microchip Technology,Information Technology,8.0
+MCK,McKesson Corp.,Health Care,6.0
+MCO,Moody's Corp,Financials,5.0
+MDLZ,,,
+MDP,,,
+MDT,Medtronic Inc.,Health Care,6.0
+MER,,,
+MET,MetLife Inc.,Financials,5.0
+MHS,,,
+MI,,,
+MIL,,,
+MKC,McCormick & Co.,Consumer Staples,3.0
+MMC,Marsh & McLennan,Financials,5.0
+MMM,3M Co.,Industrials,7.0
+MO,Altria Group Inc,Consumer Staples,3.0
+MOLX,Molex Inc.,Information Technology,8.0
+MON,Monsanto Co.,Materials,9.0
+MRK,Merck & Co.,Health Care,6.0
+MRO,Marathon Oil Corp.,Energy,4.0
+MS,Morgan Stanley,Financials,5.0
+MSFT,Microsoft Corp.,Information Technology,8.0
+MSI,Motorola Solutions Inc.,Information Technology,8.0
+MTB,M&T Bank Corp.,Financials,5.0
+MTG,,,
+MTLQQ,,,
+MTW,,,
+MU,Micron Technology,Information Technology,8.0
+MUR,Murphy Oil,Energy,4.0
+MWV,MeadWestvaco Corporation,Materials,9.0
+MWW,,,
+MYL,Mylan Inc.,Health Care,6.0
+NBL,Noble Energy Inc,Energy,4.0
+NBR,Nabors Industries Ltd.,Energy,4.0
+NCC,,,
+NE,Noble Corp,Energy,4.0
+NEE,NextEra Energy Resources,Utilities,11.0
+NEM,Newmont Mining Corp. (Hldg. Co.),Materials,9.0
+NI,NiSource Inc.,Utilities,11.0
+NKE,NIKE Inc.,Consumer,1.0
+NOC,Northrop Grumman Corp.,Industrials,7.0
+NOV,National Oilwell Varco Inc.,Energy,4.0
+NOVL,,,
+NSC,Norfolk Southern Corp.,Industrials,7.0
+NSM,,,
+NTAP,NetApp,Information Technology,8.0
+NTRS,Northern Trust Corp.,Financials,5.0
+NUE,Nucor Corp.,Materials,9.0
+NVDA,Nvidia Corporation,Information Technology,8.0
+NVLS,,,
+NWL,Newell Rubbermaid Co.,Consumer,1.0
+NYT,,,
+NYX,NYSE Euronext,Financials,5.0
+ODP,,,
+OMC,Omnicom Group,Consumer,1.0
+OMX,,,
+ORCL,Oracle Corp.,Information Technology,8.0
+OXY,Occidental Petroleum,Energy,4.0
+PAYX,Paychex Inc.,Information Technology,8.0
+PBG,,,
+PBI,Pitney-Bowes,Industrials,7.0
+PCAR,PACCAR Inc.,Industrials,7.0
+PCG,PG&E Corp.,Utilities,11.0
+PCL,Plum Creek Timber Co.,Financials,5.0
+PCP,Precision Castparts,Industrials,7.0
+PDCO,Patterson Companies,Health Care,6.0
+PEG,Public Serv. Enterprise Inc.,Utilities,11.0
+PEP,PepsiCo Inc.,Consumer Staples,3.0
+PFE,Pfizer Inc.,Health Care,6.0
+PFG,Principal Financial Group,Financials,5.0
+PG,Procter & Gamble,Consumer Staples,3.0
+PGN,,,
+PGR,Progressive Corp.,Financials,5.0
+PH,Parker-Hannifin,Industrials,7.0
+PHM,Pulte Homes Inc.,Consumer,1.0
+PKI,PerkinElmer,Health Care,6.0
+PLD,ProLogis,Financials,5.0
+PLL,Pall Corp.,Industrials,7.0
+PNC,PNC Financial Services,Financials,5.0
+PNW,Pinnacle West Capital,Utilities,11.0
+POM,Pepco Holdings Inc.,Utilities,11.0
+PPG,PPG Industries,Materials,9.0
+PPL,PPL Corp.,Utilities,11.0
+PRU,Prudential Financial,Financials,5.0
+PSA,Public Storage,Financials,5.0
+PTV,,,
+PX,Praxair Inc.,Materials,9.0
+Q,,,
+QCOM,QUALCOMM Inc.,Information Technology,8.0
+QLGC,,,
+R,Ryder System,Industrials,7.0
+RAI,Reynolds American Inc.,Consumer Staples,3.0
+RDC,Rowan Cos.,Energy,4.0
+RF,Regions Financial Corp.,Financials,5.0
+RHI,Robert Half International,Industrials,7.0
+RIG,,,
+RL,Polo Ralph Lauren Corp.,Consumer,1.0
+ROH,,,
+ROK,Rockwell Automation Inc.,Industrials,7.0
+RRC,Range Resources Corp.,Energy,4.0
+RRD,Donnelley (R.R.) & Sons,Industrials,7.0
+RSHCQ,,,
+RTN,Raytheon Co.,Industrials,7.0
+RX,,,
+S,Sprint Nextel Corp.,Telecommunications Services,10.0
+SAF,,,
+SBUX,Starbucks Corp.,Consumer,1.0
+SCHW,Charles Schwab,Financials,5.0
+SE,Spectra Energy Corp.,Energy,4.0
+SEE,Sealed Air Corp.(New),Materials,9.0
+SGP,,,
+SHLD,Sears Holdings Corporation,Consumer,1.0
+SHW,Sherwin-Williams,Consumer,1.0
+SIAL,Sigma-Aldrich,Materials,9.0
+SII,,,
+SLB,Schlumberger Ltd.,Energy,4.0
+SLM,SLM Corporation,Financials,5.0
+SNA,Snap-On Inc.,Consumer,1.0
+SNDK,SanDisk Corporation,Information Technology,8.0
+SNV,,,
+SO,Southern Co.,Utilities,11.0
+SOV,,,
+SPG,Simon Property Group Inc,Financials,5.0
+SPGI,,,
+SPLS,Staples Inc.,Consumer,1.0
+SRE,Sempra Energy,Utilities,11.0
+SSP,,,
+STI,SunTrust Banks,Financials,5.0
+STJ,St Jude Medical,Health Care,6.0
+STR,,,
+STT,State Street Corp.,Financials,5.0
+STZ,Constellation Brands,Consumer Staples,3.0
+SUN,Sunoco Inc.,Energy,4.0
+SUNEQ,,,
+SVU,,,
+SWK,Stanley Black & Decker,Consumer,1.0
+SWY,Safeway Inc.,Consumer Staples,3.0
+SYK,Stryker Corp.,Health Care,6.0
+SYMC,Symantec Corp.,Information Technology,8.0
+SYY,Sysco Corp.,Consumer Staples,3.0
+T,AT&T Inc,Telecommunications Services,10.0
+TAP,Molson Coors Brewing Company,Consumer Staples,3.0
+TDC,Teradata Corp.,Information Technology,8.0
+TE,TECO Energy,Utilities,11.0
+TEG,Integrys Energy Group Inc.,Utilities,11.0
+TEL,TE Connectivity Ltd.,Information Technology,8.0
+TER,Teradyne Inc.,Information Technology,8.0
+TEX,,,
+TGNA,,,
+TGT,Target Corp.,Consumer Discretionary,2.0
+THC,Tenet Healthcare Corp.,Health Care,6.0
+TIE,Titanium Metals Corp,Materials,9.0
+TIF,Tiffany & Co.,Consumer Discretionary,2.0
+TJX,TJX Companies Inc.,Consumer Discretionary,2.0
+TLAB,,,
+TMK,Torchmark Corp.,Financials,5.0
+TMO,Thermo Fisher Scientific,Health Care,6.0
+TPR,,,
+TROW,T. Rowe Price Group,Financials,5.0
+TRV,The Travelers Companies Inc.,Financials,5.0
+TSN,Tyson Foods,Consumer Staples,3.0
+TT,,,
+TWX,Time Warner Inc.,Consumer Discretionary,2.0
+TXN,Texas Instruments,Information Technology,8.0
+TXT,Textron Inc.,Industrials,7.0
+UIS,,,
+UNH,United Health Group Inc.,Health Care,6.0
+UNM,Unum Group,Financials,5.0
+UNP,Union Pacific,Industrials,7.0
+UPS,United Parcel Service,Industrials,7.0
+USB,U.S. Bancorp,Financials,5.0
+UST,,,
+UTX,United Technologies,Industrials,7.0
+VAR,Varian Medical Systems,Health Care,6.0
+VFC,V.F. Corp.,Consumer Discretionary,2.0
+VIAB,Viacom Inc.,Consumer Discretionary,2.0
+VIAV,,,
+VLO,Valero Energy,Energy,4.0
+VMC,Vulcan Materials,Materials,9.0
+VNO,Vornado Realty Trust,Financials,5.0
+VRSN,Verisign Inc.,Information Technology,8.0
+VZ,Verizon Communications,Telecommunications Services,10.0
+WAMUQ,,,
+WAT,Waters Corporation,Health Care,6.0
+WB,,,
+WBA,,,
+WEN,,,
+WFC,Wells Fargo,Financials,5.0
+WFM,Whole Foods Market,Consumer Staples,3.0
+WFT,,,
+WHR,Whirlpool Corp.,Consumer Discretionary,2.0
+WIN,Windstream Corporation,Telecommunications Services,10.0
+WM,Waste Management Inc.,Industrials,7.0
+WMB,Williams Cos.,Energy,4.0
+WMT,Wal-Mart Stores,Consumer Staples,3.0
+WU,Western Union Co,Information Technology,8.0
+WWY,,,
+WY,Weyerhaeuser Corp.,Financials,5.0
+WYE,,,
+WYND,,,
+X,United States Steel Corp.,Materials,9.0
+XEL,Xcel Energy Inc,Utilities,11.0
+XL,XL Capital,Financials,5.0
+XLNX,Xilinx Inc,Information Technology,8.0
+XOM,Exxon Mobil Corp.,Energy,4.0
+XRX,Xerox Corp.,Information Technology,8.0
+XTO,,,
+YUM,Yum! Brands Inc,Consumer Discretionary,2.0
+ZBH,,,
+ZION,Zions Bancorp,Financials,5.0

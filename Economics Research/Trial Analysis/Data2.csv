@@ -1,0 +1,498 @@
+TICKER,Security,GICS Sector,GICS Sub-Industry,Headquarters Location,Date added,CIK,Founded,Name,Sector,Sector_Code
+A,Agilent Technologies,Health Care,Health Care Equipment,"Santa Clara, California",6/5/2000,1090872.0,1999,Agilent Technologies Inc,Health Care,6.0
+AABA,,,,,,,,,,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",11/30/1982,320193.0,1977,Apple Inc.,Information Technology,8.0
+ABC,AmerisourceBergen,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",8/30/2001,1140859.0,1985,AmerisourceBergen Corp,Health Care,6.0
+ABI,,,,,,,,,,
+ABKFQ,,,,,,,,,,
+ABT,Abbott,Health Care,Health Care Equipment,"North Chicago, Illinois",3/4/1957,1800.0,1888,Abbott Laboratories,Health Care,6.0
+ACAS,,,,,,,,,,
+ACS,,,,,,,,,,
+ADBE,Adobe Inc.,Information Technology,Application Software,"San Jose, California",5/5/1997,796343.0,1982,Adobe Systems Inc,Information Technology,8.0
+ADI,Analog Devices,Information Technology,Semiconductors,"Wilmington, Massachusetts",10/12/1999,6281.0,1965,Analog Devices Inc,Information Technology,8.0
+ADM,ADM,Consumer Staples,Agricultural Products & Services,"Chicago, Illinois",3/4/1957,7084.0,1902,Archer-Daniels-Midland Co,Consumer Staples,3.0
+ADP,ADP,Industrials,Human Resource & Employment Services,"Roseland, New Jersey",3/31/1981,8670.0,1949,Automatic Data Processing,Information Technology,8.0
+ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",12/1/1989,769397.0,1982,Autodesk Inc,Information Technology,8.0
+AEE,Ameren,Utilities,Multi-Utilities,"St. Louis, Missouri",9/19/1991,1002910.0,1902,Ameren Corp,Utilities,11.0
+AEP,American Electric Power,Utilities,Electric Utilities,"Columbus, Ohio",3/4/1957,4904.0,1906,American Electric Power,Utilities,11.0
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",10/2/1998,874761.0,1981,AES Corp,Utilities,11.0
+AET,,,,,,,,Aetna Inc,Health Care,6.0
+AFL,Aflac,Financials,Life & Health Insurance,"Columbus, Georgia",5/28/1999,4977.0,1955,AFLAC Inc,Financials,5.0
+AGN,,,,,,,,Allergan Inc,Health Care,6.0
+AIG,American International Group,Financials,Property & Casualty Insurance,"New York City, New York",3/31/1980,5272.0,1919,American Intl Group Inc,Financials,5.0
+AIV,,,,,,,,Apartment Investment & Mgmt,Financials,5.0
+AIZ,Assurant,Financials,Multi-line Insurance,"New York City, New York",4/10/2007,1267238.0,1892,Assurant Inc,Financials,5.0
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",7/12/2007,1086222.0,1998,Akamai Technologies Inc,Information Technology,8.0
+ALL,Allstate,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",7/13/1995,899051.0,1931,Allstate Corp,Financials,5.0
+ALTR,,,,,,,,Altera Corp,Information Technology,8.0
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,"Santa Clara, California",3/16/1995,6951.0,1967,Applied Materials Inc,Information Technology,8.0
+AMD,AMD,Information Technology,Semiconductors,"Santa Clara, California",3/20/2017,2488.0,1969,Advanced Micro Devices,Information Technology,8.0
+AMGN,Amgen,Health Care,Biotechnology,"Thousand Oaks, California",1/2/1992,318154.0,1980,Amgen Inc,Health Care,6.0
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",10/3/2005,820027.0,1894,Ameriprise Financial,Financials,5.0
+AMT,American Tower,Real Estate,Telecom Tower REITs,"Boston, Massachusetts",11/19/2007,1053507.0,1995,American Tower Corp A,Financials,5.0
+AMZN,Amazon,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",11/18/2005,1018724.0,1994,Amazon.com Inc,Consumer,1.0
+AN,,,,,,,,AutoNation Inc,Consumer,1.0
+ANDV,,,,,,,,,,
+ANF,,,,,,,,Abercrombie & Fitch Company A,Consumer,1.0
+ANTM,,,,,,,,,,
+AON,Aon,Financials,Insurance Brokers,"London, UK",4/23/1996,315293.0,1982 (1919),Aon plc,Financials,5.0
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",7/28/1997,1841666.0,1954,Apache Corporation,Energy,4.0
+APC,,,,,,,,Anadarko Petroleum Corp,Energy,4.0
+APD,Air Products and Chemicals,Materials,Industrial Gases,"Allentown, Pennsylvania",4/30/1985,2969.0,1940,Air Products & Chemicals Inc,Materials,9.0
+APOL,,,,,,,,Apollo Group Inc,Consumer,1.0
+ARNC,,,,,,,,,,
+ASH,,,,,,,,,,
+ATI,,,,,,,,Allegheny Technologies Inc,Materials,9.0
+AVB,AvalonBay Communities,Real Estate,Residential REITs,"Arlington, Virginia",1/10/2007,915912.0,1978,"AvalonBay Communities, Inc.",Financials,5.0
+AVP,,,,,,,,Avon Products,Consumer Staples,3.0
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,"Glendale, California",12/31/1987,8818.0,1990,Avery Dennison Corp,Industrials,7.0
+AW,,,,,,,,,,
+AXP,American Express,Financials,Consumer Finance,"New York City, New York",6/30/1976,4962.0,1850,American Express Co,Financials,5.0
+AYE,,,,,,,,,,
+AZO,AutoZone,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1/2/1997,866787.0,1979,AutoZone Inc,Consumer,1.0
+BA,Boeing,Industrials,Aerospace & Defense,"Chicago, Illinois",3/4/1957,12927.0,1916,Boeing Company,Industrials,7.0
+BAC,Bank of America,Financials,Diversified Banks,"Charlotte, North Carolina",6/30/1976,70858.0,1998 (1923 / 1874),Bank of America Corp,Financials,5.0
+BAX,Baxter International,Health Care,Health Care Equipment,"Deerfield, Illinois",9/30/1972,10456.0,1931,Baxter International Inc.,Health Care,6.0
+BBBY,,,,,,,,Bed Bath & Beyond,Consumer,1.0
+BBT,,,,,,,,BB&T Corporation,Financials,5.0
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",6/29/1999,764478.0,1966,Best Buy Co. Inc.,Consumer,1.0
+BC,,,,,,,,,,
+BCR,,,,,,,,Bard (C.R.) Inc.,Health Care,6.0
+BDK,,,,,,,,,,
+BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",9/30/1972,10795.0,1897,Becton Dickinson,Health Care,6.0
+BEAM,,,,,,,,Beam Inc.,Consumer,1.0
+BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,"San Mateo, California",4/30/1998,38777.0,1947,Franklin Resources,Financials,5.0
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",10/31/1982,14693.0,1870,Brown-Forman Corporation,Consumer Staples,3.0
+BHGE,,,,,,,,,,
+BIG,,,,,,,,Big Lots Inc.,Consumer,1.0
+BIIB,Biogen,Health Care,Biotechnology,"Cambridge, Massachusetts",11/13/2003,875045.0,1978,BIOGEN IDEC Inc.,Health Care,6.0
+BJS,,,,,,,,,,
+BK,BNY Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",3/31/1995,1390777.0,1784,The Bank of New York Mellon Corp.,Financials,5.0
+BLL,,,,,,,,Ball Corp,Materials,9.0
+BMC,,,,,,,,BMC Software,Information Technology,8.0
+BMS,,,,,,,,Bemis Company,Materials,9.0
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,"New York City, New York",3/4/1957,14272.0,1989 (1887),Bristol-Myers Squibb,Health Care,6.0
+BNI,,,,,,,,,,
+BRCM,,,,,,,,Broadcom Corporation,Information Technology,8.0
+BRL,,,,,,,,,,
+BSC,,,,,,,,,,
+BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2/24/1995,885725.0,1979,Boston Scientific,Health Care,6.0
+BTUUQ,,,,,,,,,,
+BUD,,,,,,,,,,
+BXP,Boston Properties,Real Estate,Office REITs,"Boston, Massachusetts",4/3/2006,1037540.0,1970,Boston Properties,Financials,5.0
+C,Citigroup,Financials,Diversified Banks,"New York City, New York",5/31/1988,831001.0,1998,Citigroup Inc.,Financials,5.0
+CA,,,,,,,,"CA, Inc.",Information Technology,8.0
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",8/31/1983,23217.0,1919,ConAgra Foods Inc.,Consumer Staples,3.0
+CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",5/27/1997,721371.0,1971,Cardinal Health Inc.,Health Care,6.0
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",3/4/1957,18230.0,1925,Caterpillar Inc.,Industrials,7.0
+CB,Chubb Limited,Financials,Property & Casualty Insurance,"Zurich, Switzerland",7/15/2010,896159.0,1985,Chubb Corp.,Financials,5.0
+CBE,,,,,,,,Cooper Industries,Industrials,7.0
+CBH,,,,,,,,,,
+CBRE,CBRE Group,Real Estate,Real Estate Services,"Dallas, Texas",11/10/2006,1138118.0,1906,,,
+CBS,,,,,,,,CBS Corp.,Consumer,1.0
+CCE,,,,,,,,Coca-Cola Enterprises,Consumer Staples,3.0
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",12/22/1998,815097.0,1972,Carnival Corp.,Consumer,1.0
+CCTYQ,,,,,,,,,,
+CCU,,,,,,,,,,
+CEG,Constellation Energy,Utilities,Multi-Utilities,"Baltimore, Maryland",2/2/2022,1868275.0,1999,,,
+CELG,,,,,,,,Celgene Corp.,Health Care,6.0
+CFC,,,,,,,,,,
+CHK,,,,,,,,Chesapeake Energy,Energy,4.0
+CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",3/2/2007,1043277.0,1905,C. H. Robinson Worldwide,Industrials,7.0
+CI,Cigna,Health Care,Managed Health Care,"Bloomfield, Connecticut",6/30/1976,1739940.0,1982,CIGNA Corp.,Health Care,6.0
+CIEN,,,,,,,,,,
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,"Fairfield, Ohio",12/18/1997,20286.0,1950,Cincinnati Financial,Financials,5.0
+CITGQ,,,,,,,,,,
+CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",3/4/1957,21665.0,1806,Colgate-Palmolive,Consumer Staples,3.0
+CLX,Clorox,Consumer Staples,Household Products,"Oakland, California",3/31/1969,21076.0,1913,Clorox Co.,Consumer Staples,3.0
+CMA,Comerica,Financials,Diversified Banks,"Dallas, Texas",12/1/1995,28412.0,1849,Comerica Inc.,Financials,5.0
+CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",11/19/2002,1166691.0,1963,Comcast Corp.,Consumer,1.0
+CME,CME Group,Financials,Financial Exchanges & Data,"Chicago, Illinois",8/11/2006,1156375.0,1848,CME Group Inc.,Financials,5.0
+CMI,Cummins,Industrials,Industrial Machinery & Supplies & Components,"Columbus, Indiana",3/31/1965,26172.0,1919,Cummins Inc.,Industrials,7.0
+CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",3/4/1957,811156.0,1886,CMS Energy,Utilities,11.0
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",7/31/1985,1130310.0,1882,CenterPoint Energy,Utilities,11.0
+CNX,,,,,,,,CONSOL Energy Inc.,Energy,4.0
+COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",7/1/1998,927628.0,1994,Capital One Financial,Financials,5.0
+COL,,,,,,,,Rockwell Collins,Industrials,7.0
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",3/4/1957,1163165.0,2002,ConocoPhillips,Energy,4.0
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",10/1/1993,909832.0,1976,Costco Co.,Consumer Staples,3.0
+COV,,,,,,,,Covidien plc,Health Care,6.0
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",3/4/1957,16732.0,1869,Campbell Soup,Consumer Staples,3.0
+CPWR,,,,,,,,,,
+CSCO,Cisco,Information Technology,Communications Equipment,"San Jose, California",12/1/1993,858877.0,1984,Cisco Systems,Information Technology,8.0
+CSX,CSX,Industrials,Rail Transportation,"Jacksonville, Florida",3/4/1957,277948.0,1980,CSX Corp.,Industrials,7.0
+CTAS,Cintas,Industrials,Diversified Support Services,"Mason, Ohio",3/1/2001,723254.0,1929,Cintas Corporation,Industrials,7.0
+CTL,,,,,,,,CenturyLink Inc,Telecommunications Services,10.0
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",11/17/2006,1058290.0,1994,Cognizant Technology Solutions,Information Technology,8.0
+CTX,,,,,,,,,,
+CTXS,,,,,,,,Citrix Systems,Information Technology,8.0
+CVG,,,,,,,,,,
+CVH,,,,,,,,Coventry Health Care Inc.,Health Care,6.0
+CVS,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",3/4/1957,64803.0,1996,CVS Caremark Corp.,Consumer Staples,3.0
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,"San Ramon, California",3/4/1957,93410.0,1879,Chevron Corp.,Energy,4.0
+D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",,715957.0,1983,Dominion Resources,Utilities,11.0
+DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",4/2/2019,1666700.0,2017,Du Pont (E.I.),Materials,9.0
+DDR,,,,,,,,,,
+DDS,,,,,,,,,,
+DE,John Deere,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",3/4/1957,315189.0,1837,Deere & Co.,Industrials,7.0
+DELL,,,,,,,,Dell Inc.,Information Technology,8.0
+DF,,,,,,,,Dean Foods,Consumer Staples,3.0
+DFS,Discover Financial,Financials,Consumer Finance,"Riverwoods, Illinois",7/2/2007,1393612.0,1985,Discover Financial Services,Financials,5.0
+DGX,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",12/12/2002,1022079.0,1967,Quest Diagnostics,Health Care,6.0
+DHI,D.R. Horton,Consumer Discretionary,Homebuilding,"Arlington, Texas",6/22/2005,882184.0,1978,D. R. Horton,Consumer,1.0
+DHR,Danaher Corporation,Health Care,Health Care Equipment,"Washington, D.C.",11/18/1998,313616.0,1969,Danaher Corp.,Industrials,7.0
+DIS,Disney,Communication Services,Movies & Entertainment,"Burbank, California",6/30/1976,1744489.0,1923,Walt Disney Co.,Consumer Discretionary,2.0
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,"Downers Grove, Illinois",10/31/1985,29905.0,1955,Dover Corp.,Industrials,7.0
+DOW,Dow Inc.,Materials,Commodity Chemicals,"Midland, Michigan",4/1/2019,1751788.0,2019,Dow Chemical,Materials,9.0
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",5/31/1995,940944.0,1938,Darden Restaurants,Consumer,1.0
+DTE,DTE Energy,Utilities,Multi-Utilities,"Detroit, Michigan",3/4/1957,936340.0,1995,DTE Energy Co.,Utilities,11.0
+DTV,,,,,,,,DirecTV,Consumer,1.0
+DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",6/30/1976,1326160.0,1904,Duke Energy,Utilities,11.0
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",8/30/2000,1090012.0,1971,Devon Energy Corp.,Energy,4.0
+DXC,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",4/4/2017,1688568.0,2017,,,
+DYN,,,,,,,,,,
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,"Redwood City, California",7/22/2002,712515.0,1982,Electronic Arts,Information Technology,8.0
+EBAY,eBay,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",7/22/2002,1065088.0,1995,eBay Inc.,Information Technology,8.0
+ECL,Ecolab,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1/31/1989,31462.0,1923,Ecolab Inc.,Materials,9.0
+ED,Consolidated Edison,Utilities,Electric Utilities,"New York City, New York",3/4/1957,1047862.0,1823,Consolidated Edison,Utilities,11.0
+EDS,,,,,,,,,,
+EFX,Equifax,Industrials,Research & Consulting Services,"Atlanta, Georgia",6/19/1997,33185.0,1899,Equifax Inc.,Financials,5.0
+EIX,Edison International,Utilities,Electric Utilities,"Rosemead, California",3/4/1957,827052.0,1886,Edison Int'l,Utilities,11.0
+EKDKQ,,,,,,,,,,
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New York City, New York",1/5/2006,1001250.0,1946,Estee Lauder Cos.,Consumer Staples,3.0
+EMC,,,,,,,,EMC Corp.,Information Technology,8.0
+EMN,Eastman Chemical Company,Materials,Diversified Chemicals,"Kingsport, Tennessee",1/1/1994,915389.0,1920,Eastman Chemical,Materials,9.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",3/31/1965,32604.0,1890,Emerson Electric,Industrials,7.0
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,"Houston, Texas",11/2/2000,821189.0,1999,EOG Resources,Energy,4.0
+EP,,,,,,,,,,
+EQ,,,,,,,,,,
+EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",12/3/2001,906107.0,1969,Equity Residential,Financials,5.0
+ESRX,,,,,,,,Express Scripts,Health Care,6.0
+ESV,,,,,,,,Ensco plc,Energy,4.0
+ETFC,,,,,,,,E-Trade,Financials,5.0
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",3/4/1957,1551182.0,1911,Eaton Corp.,Industrials,7.0
+ETR,Entergy,Utilities,Electric Utilities,"New Orleans, Louisiana",3/4/1957,65984.0,1913,Entergy Corp.,Utilities,11.0
+EXC,Exelon,Utilities,Multi-Utilities,"Chicago, Illinois",3/4/1957,1109357.0,2000,Exelon Corp.,Utilities,11.0
+EXPD,Expeditors International,Industrials,Air Freight & Logistics,"Seattle, Washington",10/10/2007,746515.0,1979,Expeditors Int'l,Industrials,7.0
+EXPE,Expedia Group,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",10/2/2007,1324424.0,1996,Expedia Inc.,Consumer,1.0
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",3/4/1957,37996.0,1903,Ford Motor,Consumer,1.0
+FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",,831259.0,1912,Freeport-McMoran Cp & Gld,Materials,9.0
+FDO,,,,,,,,Family Dollar Stores,Consumer,1.0
+FDX,FedEx,Industrials,Air Freight & Logistics,"Memphis, Tennessee",12/31/1980,1048911.0,1971,FedEx Corporation,Industrials,7.0
+FE,FirstEnergy,Utilities,Electric Utilities,"Akron, Ohio",11/28/1997,1031296.0,1997,FirstEnergy Corp,Utilities,11.0
+FHN,,,,,,,,First Horizon National,Financials,5.0
+FII,,,,,,,,Federated Investors Inc.,Financials,5.0
+FIS,FIS,Financials,Transaction & Payment Processing Services,"Jacksonville, Florida",11/10/2006,1136893.0,1968,Fidelity National Information Services,Information Technology,8.0
+FISV,Fiserv,Financials,Transaction & Payment Processing Services,"Brookfield, Wisconsin",4/2/2001,798354.0,1984,Fiserv Inc,Information Technology,8.0
+FITB,Fifth Third Bank,Financials,Regional Banks,"Cincinnati, Ohio",3/29/1996,35527.0,1858,Fifth Third Bancorp,Financials,5.0
+FLR,,,,,,,,Fluor Corp.,Industrials,7.0
+FMCC,,,,,,,,,,
+FNMA,,,,,,,,,,
+FOXA,Fox Corporation (Class A),Communication Services,Movies & Entertainment,"New York City, New York",7/1/2013,1754301.0,2019,,,
+FRX,,,,,,,,Forest Laboratories,Health Care,6.0
+FTR,,,,,,,,Frontier Communications,Telecommunications Services,10.0
+GAS,,,,,,,,AGL Resources Inc.,Utilities,11.0
+GD,General Dynamics,Industrials,Aerospace & Defense,"Falls Church, Virginia",3/4/1957,40533.0,1899,General Dynamics,Industrials,7.0
+GE,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",3/4/1957,40545.0,1892,General Electric,Industrials,7.0
+GENZ,,,,,,,,,,
+GGP,,,,,,,,,,
+GHC,,,,,,,,,,
+GILD,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",7/1/2004,882095.0,1987,Gilead Sciences,Health Care,6.0
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",3/4/1957,40704.0,1856,General Mills,Consumer Staples,3.0
+GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",2/27/1995,24741.0,1851,Corning Inc.,Industrials,7.0
+GME,,,,,,,,GameStop Corp.,Consumer,1.0
+GNW,,,,,,,,Genworth Financial Inc.,Financials,5.0
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,"Mountain View, California",4/3/2014,1652044.0,1998,,,
+GPC,Genuine Parts Company,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",12/31/1973,40987.0,1925,Genuine Parts,Consumer,1.0
+GPS,,,,,,,,Gap (The),Consumer,1.0
+GR,,,,,,,,,,
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,"New York City, New York",7/22/2002,886982.0,1869,Goldman Sachs Group,Financials,5.0
+GT,,,,,,,,Goodyear Tire & Rubber,Consumer,1.0
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",6/30/1981,277135.0,1927,Grainger (W.W.) Inc.,Industrials,7.0
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,"Houston, Texas",3/4/1957,45012.0,1919,Halliburton Co.,Energy,4.0
+HAR,,,,,,,,Harman Int'l Industries,Consumer,1.0
+HAS,Hasbro,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",9/30/1984,46080.0,1923,Hasbro Inc.,Consumer,1.0
+HBAN,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",8/28/1997,49196.0,1866,Huntington Bancshares,Financials,5.0
+HCBK,,,,,,,,Hudson City Bancorp,Financials,5.0
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",3/31/1988,354950.0,1978,Home Depot,Consumer,1.0
+HES,Hess Corporation,Energy,Integrated Oil & Gas,"New York City, New York",5/31/1984,4447.0,1919,Hess Corporation,Energy,4.0
+HET,,,,,,,,,,
+HIG,Hartford (The),Financials,Property & Casualty Insurance,"Hartford, Connecticut",3/4/1957,874766.0,1810,Hartford Financial Svc.Gp.,Financials,5.0
+HNZ,,,,,,,,Heinz (H.J.),Consumer Staples,3.0
+HOG,,,,,,,,Harley-Davidson,Consumer,1.0
+HON,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",3/4/1957,773840.0,1906,Honeywell Int'l Inc.,Industrials,7.0
+HOT,,,,,,,,Starwood Hotels & Resorts,Consumer Discretionary,2.0
+HPC,,,,,,,,,,
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",12/31/1974,47217.0,1939 (2015),Hewlett-Packard,Information Technology,8.0
+HRB,,,,,,,,Block H&R,Consumer,1.0
+HSH,,,,,,,,,,
+HSP,,,,,,,,Hospira Inc.,Health Care,6.0
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",3/20/2007,1070750.0,1993,Host Hotels & Resorts,Financials,5.0
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",3/4/1957,47111.0,1894,The Hershey Company,Consumer Staples,3.0
+HUM,Humana,Health Care,Managed Health Care,"Louisville, Kentucky",,49071.0,1961,Humana Inc.,Health Care,6.0
+IAC,,,,,,,,,,
+IBM,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",3/4/1957,51143.0,1911,International Bus. Machines,Information Technology,8.0
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,"Atlanta, Georgia",9/26/2007,1571949.0,2000,IntercontinentalExchange Inc.,Financials,5.0
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,"New York City, New York",3/31/1976,51253.0,1958 (1889),International Flav/Frag,Materials,9.0
+IGT,,,,,,,,International Game Technology,Consumer,1.0
+INTC,Intel,Information Technology,Semiconductors,"Santa Clara, California",12/31/1976,50863.0,1968,Intel Corp.,Information Technology,8.0
+INTU,Intuit,Information Technology,Application Software,"Mountain View, California",12/5/2000,896878.0,1983,Intuit Inc.,Information Technology,8.0
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,"Memphis, Tennessee",3/4/1957,51434.0,1898,International Paper,Materials,9.0
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,"New York City, New York",10/1/1992,51644.0,1961 (1930),Interpublic Group,Consumer,1.0
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,"Davidson, North Carolina",3/3/2020,1699150.0,1859,Ingersoll-Rand PLC,Industrials,7.0
+ITT,,,,,,,,,,
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,"Glenview, Illinois",2/28/1986,49826.0,1912,Illinois Tool Works,Industrials,7.0
+JAVA,,,,,,,,,,
+JBL,,,,,,,,Jabil Circuit,Information Technology,8.0
+JCI,Johnson Controls,Industrials,Building Products,"Cork, Ireland",8/27/2010,833444.0,1885,Johnson Controls,Consumer,1.0
+JCP,,,,,,,,Penney (J.C.),Consumer,1.0
+JEC,,,,,,,,Jacobs Engineering Group,Industrials,7.0
+JEF,,,,,,,,,,
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",6/30/1973,200406.0,1886,Johnson & Johnson,Health Care,6.0
+JNPR,Juniper Networks,Information Technology,Communications Equipment,"Sunnyvale, California",6/2/2006,1043604.0,1996,Juniper Networks,Information Technology,8.0
+JNS,,,,,,,,,,
+JNY,,,,,,,,,,
+JPM,JPMorgan Chase,Financials,Diversified Banks,"New York City, New York",6/30/1975,19617.0,2000 (1799 / 1871),JPMorgan Chase & Co.,Financials,5.0
+JWN,,,,,,,,Nordstrom,Consumer,1.0
+K,Kellogg's,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",9/11/1989,55067.0,1906,Kellogg Co.,Consumer Staples,3.0
+KATE,,,,,,,,,,
+KBH,,,,,,,,,,
+KEY,KeyCorp,Financials,Regional Banks,"Cleveland, Ohio",3/1/1994,91576.0,1825,KeyCorp,Financials,5.0
+KG,,,,,,,,,,
+KIM,Kimco Realty,Real Estate,Retail REITs,"New Hyde Park, New York",4/4/2006,879101.0,1958,Kimco Realty,Financials,5.0
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,"Milpitas, California",9/30/1997,319201.0,1975/1977 (1997),KLA-Tencor Corp.,Information Technology,8.0
+KMB,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",3/4/1957,55785.0,1872,Kimberly-Clark,Consumer Staples,3.0
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",3/4/1957,21344.0,1886,Coca Cola Co.,Consumer Staples,3.0
+KR,Kroger,Consumer Staples,Food Retail,"Cincinnati, Ohio",3/4/1957,56873.0,1883,Kroger Co.,Consumer Staples,3.0
+KSS,,,,,,,,Kohl's Corp.,Consumer,1.0
+L,Loews Corporation,Financials,Multi-line Insurance,"New York City, New York",5/31/1995,60086.0,1959,Loews Corp.,Financials,5.0
+LB,,,,,,,,,,
+LEG,,,,,,,,Leggett & Platt,Consumer,1.0
+LEHMQ,,,,,,,,,,
+LEN,Lennar,Consumer Discretionary,Homebuilding,"Miami, Florida",10/4/2005,920760.0,1954,Lennar Corp.,Consumer,1.0
+LH,LabCorp,Health Care,Health Care Services,"Burlington, North Carolina",11/1/2004,920148.0,1978,Laboratory Corp. of America Holding,Health Care,6.0
+LLL,,,,,,,,L-3 Communications Holdings,Industrials,7.0
+LLTC,,,,,,,,Linear Technology Corp.,Information Technology,8.0
+LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,"Indianapolis, Indiana",12/31/1970,59478.0,1876,Lilly (Eli) & Co.,Health Care,6.0
+LM,,,,,,,,Legg Mason,Financials,5.0
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,"Bethesda, Maryland",3/4/1957,936468.0,1995,Lockheed Martin Corp.,Industrials,7.0
+LNC,Lincoln Financial,Financials,Multi-line Insurance,"Radnor, Pennsylvania",6/30/1976,59558.0,1905,Lincoln National,Financials,5.0
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",2/29/1984,60667.0,1904/1946/1959,Lowe's Cos.,Consumer,1.0
+LSI,,,,,,,,LSI Corporation,Information Technology,8.0
+LUV,Southwest Airlines,Industrials,Passenger Airlines,"Dallas, Texas",7/1/1994,92380.0,1967,Southwest Airlines,Industrials,7.0
+LXK,,,,,,,,Lexmark Int'l Inc,Information Technology,8.0
+M,,,,,,,,Macy's Inc.,Consumer,1.0
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",5/29/1998,1048286.0,1927,Marriott Int'l.,Consumer,1.0
+MAS,Masco,Industrials,Building Products,"Livonia, Michigan",6/30/1981,62996.0,1929,Masco Corp.,Industrials,7.0
+MAT,,,,,,,,Mattel Inc.,Consumer,1.0
+MBI,,,,,,,,,,
+MCD,McDonald's,Consumer Discretionary,Restaurants,"Chicago, Illinois",6/30/1970,63908.0,1940,McDonald's Corp.,Consumer,1.0
+MCHP,Microchip Technology,Information Technology,Semiconductors,"Chandler, Arizona",9/7/2007,827054.0,1989,Microchip Technology,Information Technology,8.0
+MCK,McKesson,Health Care,Health Care Distributors,"Irving, Texas",1/13/1999,927653.0,1833,McKesson Corp.,Health Care,6.0
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,"New York City, New York",7/1/1998,1059556.0,1909,Moody's Corp,Financials,5.0
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",10/2/2012,1103982.0,2012,,,
+MDP,,,,,,,,,,
+MDT,Medtronic,Health Care,Health Care Equipment,"Dublin, Ireland",10/31/1986,1613103.0,1949,Medtronic Inc.,Health Care,6.0
+MER,,,,,,,,,,
+MET,MetLife,Financials,Life & Health Insurance,"New York City, New York",12/11/2000,1099219.0,1868,MetLife Inc.,Financials,5.0
+MHS,,,,,,,,,,
+MI,,,,,,,,,,
+MIL,,,,,,,,,,
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",3/20/2003,63754.0,1889,McCormick & Co.,Consumer Staples,3.0
+MMC,Marsh McLennan,Financials,Insurance Brokers,"New York City, New York",8/31/1987,62709.0,1905,Marsh & McLennan,Financials,5.0
+MMM,3M,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",3/4/1957,66740.0,1902,3M Co.,Industrials,7.0
+MO,Altria,Consumer Staples,Tobacco,"Richmond, Virginia",3/4/1957,764180.0,1985,Altria Group Inc,Consumer Staples,3.0
+MOLX,,,,,,,,Molex Inc.,Information Technology,8.0
+MON,,,,,,,,Monsanto Co.,Materials,9.0
+MRK,Merck & Co.,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",3/4/1957,310158.0,1891,Merck & Co.,Health Care,6.0
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,"Houston, Texas",3/4/1957,101778.0,1887,Marathon Oil Corp.,Energy,4.0
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York City, New York",7/29/1993,895421.0,1935,Morgan Stanley,Financials,5.0
+MSFT,Microsoft,Information Technology,Systems Software,"Redmond, Washington",6/1/1994,789019.0,1975,Microsoft Corp.,Information Technology,8.0
+MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",3/4/1957,68505.0,1928 (2011),Motorola Solutions Inc.,Information Technology,8.0
+MTB,M&T Bank,Financials,Regional Banks,"Buffalo, New York",2/23/2004,36270.0,1856,M&T Bank Corp.,Financials,5.0
+MTG,,,,,,,,,,
+MTLQQ,,,,,,,,,,
+MTW,,,,,,,,,,
+MU,Micron Technology,Information Technology,Semiconductors,"Boise, Idaho",9/27/1994,723125.0,1978,Micron Technology,Information Technology,8.0
+MUR,,,,,,,,Murphy Oil,Energy,4.0
+MWV,,,,,,,,MeadWestvaco Corporation,Materials,9.0
+MWW,,,,,,,,,,
+MYL,,,,,,,,Mylan Inc.,Health Care,6.0
+NBL,,,,,,,,Noble Energy Inc,Energy,4.0
+NBR,,,,,,,,Nabors Industries Ltd.,Energy,4.0
+NCC,,,,,,,,,,
+NE,,,,,,,,Noble Corp,Energy,4.0
+NEE,NextEra Energy,Utilities,Multi-Utilities,"Juno Beach, Florida",6/30/1976,753308.0,1984 (1925),NextEra Energy Resources,Utilities,11.0
+NEM,Newmont,Materials,Gold,"Denver, Colorado",6/30/1969,1164727.0,1921,Newmont Mining Corp. (Hldg. Co.),Materials,9.0
+NI,NiSource,Utilities,Multi-Utilities,"Merrillville, Indiana",11/2/2000,1111711.0,1912,NiSource Inc.,Utilities,11.0
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",11/30/1988,320187.0,1964,NIKE Inc.,Consumer,1.0
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,"West Falls Church, Virginia",3/4/1957,1133421.0,"1994 (Northrop 1939, Grumman 1930)",Northrop Grumman Corp.,Industrials,7.0
+NOV,,,,,,,,National Oilwell Varco Inc.,Energy,4.0
+NOVL,,,,,,,,,,
+NSC,Norfolk Southern Railway,Industrials,Rail Transportation,"Atlanta, Georgia",3/4/1957,702165.0,1881/1894 (1980),Norfolk Southern Corp.,Industrials,7.0
+NSM,,,,,,,,,,
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",6/25/1999,1002047.0,1992,NetApp,Information Technology,8.0
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,"Chicago, Illinois",1/30/1998,73124.0,1889,Northern Trust Corp.,Financials,5.0
+NUE,Nucor,Materials,Steel,"Charlotte, North Carolina",4/30/1985,73309.0,1940,Nucor Corp.,Materials,9.0
+NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",11/30/2001,1045810.0,1993,Nvidia Corporation,Information Technology,8.0
+NVLS,,,,,,,,,,
+NWL,Newell Brands,Consumer Discretionary,Housewares & Specialties,"Atlanta, Georgia",4/30/1989,814453.0,1903,Newell Rubbermaid Co.,Consumer,1.0
+NYT,,,,,,,,,,
+NYX,,,,,,,,NYSE Euronext,Financials,5.0
+ODP,,,,,,,,,,
+OMC,Omnicom Group,Communication Services,Advertising,"New York City, New York",12/31/1997,29989.0,1986,Omnicom Group,Consumer,1.0
+OMX,,,,,,,,,,
+ORCL,Oracle Corporation,Information Technology,Application Software,"Austin, Texas",8/31/1989,1341439.0,1977,Oracle Corp.,Information Technology,8.0
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,"Houston, Texas",3/4/1957,797468.0,1920,Occidental Petroleum,Energy,4.0
+PAYX,Paychex,Industrials,Human Resource & Employment Services,"Penfield, New York",10/1/1998,723531.0,1971,Paychex Inc.,Information Technology,8.0
+PBG,,,,,,,,,,
+PBI,,,,,,,,Pitney-Bowes,Industrials,7.0
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,"Bellevue, Washington",12/31/1980,75362.0,1905,PACCAR Inc.,Industrials,7.0
+PCG,PG&E Corporation,Utilities,Multi-Utilities,"San Francisco, California",10/3/2022,1004980.0,1905,PG&E Corp.,Utilities,11.0
+PCL,,,,,,,,Plum Creek Timber Co.,Financials,5.0
+PCP,,,,,,,,Precision Castparts,Industrials,7.0
+PDCO,,,,,,,,Patterson Companies,Health Care,6.0
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,"Newark, New Jersey",3/4/1957,788784.0,1903,Public Serv. Enterprise Inc.,Utilities,11.0
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",3/4/1957,77476.0,1898,PepsiCo Inc.,Consumer Staples,3.0
+PFE,Pfizer,Health Care,Pharmaceuticals,"New York City, New York",3/4/1957,78003.0,1849,Pfizer Inc.,Health Care,6.0
+PFG,Principal Financial Group,Financials,Life & Health Insurance,"Des Moines, Iowa",7/22/2002,1126328.0,1879,Principal Financial Group,Financials,5.0
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",3/4/1957,80424.0,1837,Procter & Gamble,Consumer Staples,3.0
+PGN,,,,,,,,,,
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",8/4/1997,80661.0,1937,Progressive Corp.,Financials,5.0
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,"Cleveland, Ohio",11/30/1985,76334.0,1917,Parker-Hannifin,Industrials,7.0
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",4/30/1984,822416.0,1956,Pulte Homes Inc.,Consumer,1.0
+PKI,PerkinElmer,Health Care,Health Care Equipment,"Waltham, Massachusetts",5/31/1985,31791.0,1937,PerkinElmer,Health Care,6.0
+PLD,Prologis,Real Estate,Industrial REITs,"San Francisco, California",7/17/2003,1045609.0,1983,ProLogis,Financials,5.0
+PLL,,,,,,,,Pall Corp.,Industrials,7.0
+PNC,PNC Financial Services,Financials,Regional Banks,"Pittsburgh, Pennsylvania",4/30/1988,713676.0,1845,PNC Financial Services,Financials,5.0
+PNW,Pinnacle West,Utilities,Multi-Utilities,"Phoenix, Arizona",10/4/1999,764622.0,1985,Pinnacle West Capital,Utilities,11.0
+POM,,,,,,,,Pepco Holdings Inc.,Utilities,11.0
+PPG,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",3/4/1957,79879.0,1883,PPG Industries,Materials,9.0
+PPL,PPL Corporation,Utilities,Electric Utilities,"Allentown, Pennsylvania",10/1/2001,922224.0,1920,PPL Corp.,Utilities,11.0
+PRU,Prudential Financial,Financials,Life & Health Insurance,"Newark, New Jersey",7/22/2002,1137774.0,1875,Prudential Financial,Financials,5.0
+PSA,Public Storage,Real Estate,Self-Storage REITs,"Glendale, California",8/19/2005,1393311.0,1972,Public Storage,Financials,5.0
+PTV,,,,,,,,,,
+PX,,,,,,,,Praxair Inc.,Materials,9.0
+Q,,,,,,,,,,
+QCOM,Qualcomm,Information Technology,Semiconductors,"San Diego, California",7/22/1999,804328.0,1985,QUALCOMM Inc.,Information Technology,8.0
+QLGC,,,,,,,,,,
+R,,,,,,,,Ryder System,Industrials,7.0
+RAI,,,,,,,,Reynolds American Inc.,Consumer Staples,3.0
+RDC,,,,,,,,Rowan Cos.,Energy,4.0
+RF,Regions Financial Corporation,Financials,Regional Banks,"Birmingham, Alabama",8/28/1998,1281761.0,1971,Regions Financial Corp.,Financials,5.0
+RHI,Robert Half,Industrials,Human Resource & Employment Services,"Menlo Park, California",12/5/2000,315213.0,1948,Robert Half International,Industrials,7.0
+RIG,,,,,,,,,,
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2/2/2007,1037038.0,1967,Polo Ralph Lauren Corp.,Consumer,1.0
+ROH,,,,,,,,,,
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",,1024478.0,1903,Rockwell Automation Inc.,Industrials,7.0
+RRC,,,,,,,,Range Resources Corp.,Energy,4.0
+RRD,,,,,,,,Donnelley (R.R.) & Sons,Industrials,7.0
+RSHCQ,,,,,,,,,,
+RTN,,,,,,,,Raytheon Co.,Industrials,7.0
+RX,,,,,,,,,,
+S,,,,,,,,Sprint Nextel Corp.,Telecommunications Services,10.0
+SAF,,,,,,,,,,
+SBUX,Starbucks,Consumer Discretionary,Restaurants,"Seattle, Washington",6/7/2000,829224.0,1971,Starbucks Corp.,Consumer,1.0
+SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,"Westlake, Texas",6/2/1997,316709.0,1971,Charles Schwab,Financials,5.0
+SE,,,,,,,,Spectra Energy Corp.,Energy,4.0
+SEE,Sealed Air,Materials,Paper & Plastic Packaging Products & Materials,"Charlotte, North Carolina",3/4/1957,1012100.0,1960,Sealed Air Corp.(New),Materials,9.0
+SGP,,,,,,,,,,
+SHLD,,,,,,,,Sears Holdings Corporation,Consumer,1.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",6/30/1964,89800.0,1866,Sherwin-Williams,Consumer,1.0
+SIAL,,,,,,,,Sigma-Aldrich,Materials,9.0
+SII,,,,,,,,,,
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",3/4/1957,87347.0,1926,Schlumberger Ltd.,Energy,4.0
+SLM,,,,,,,,SLM Corporation,Financials,5.0
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",9/30/1982,91440.0,1920,Snap-On Inc.,Consumer,1.0
+SNDK,,,,,,,,SanDisk Corporation,Information Technology,8.0
+SNV,,,,,,,,,,
+SO,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",3/4/1957,92122.0,1945,Southern Co.,Utilities,11.0
+SOV,,,,,,,,,,
+SPG,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",6/26/2002,1063761.0,2003,Simon Property Group Inc,Financials,5.0
+SPGI,S&P Global,Financials,Financial Exchanges & Data,"New York City, New York",3/4/1957,64040.0,1917,,,
+SPLS,,,,,,,,Staples Inc.,Consumer,1.0
+SRE,Sempra Energy,Utilities,Multi-Utilities,"San Diego, California",2001?,1032208.0,1998,Sempra Energy,Utilities,11.0
+SSP,,,,,,,,,,
+STI,,,,,,,,SunTrust Banks,Financials,5.0
+STJ,,,,,,,,St Jude Medical,Health Care,6.0
+STR,,,,,,,,,,
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",3/14/2003,93751.0,1792,State Street Corp.,Financials,5.0
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",7/1/2005,16918.0,1945,Constellation Brands,Consumer Staples,3.0
+SUN,,,,,,,,Sunoco Inc.,Energy,4.0
+SUNEQ,,,,,,,,,,
+SVU,,,,,,,,,,
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,"New Britain, Connecticut",9/30/1982,93556.0,1843,Stanley Black & Decker,Consumer,1.0
+SWY,,,,,,,,Safeway Inc.,Consumer Staples,3.0
+SYK,Stryker Corporation,Health Care,Health Care Equipment,"Kalamazoo, Michigan",12/12/2000,310764.0,1941,Stryker Corp.,Health Care,6.0
+SYMC,,,,,,,,Symantec Corp.,Information Technology,8.0
+SYY,Sysco,Consumer Staples,Food Distributors,"Houston, Texas",12/31/1986,96021.0,1969,Sysco Corp.,Consumer Staples,3.0
+T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",11/30/1983,732717.0,1983 (1885),AT&T Inc,Telecommunications Services,10.0
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,"Chicago, Illinois",6/30/1976,24545.0,"2005 (Molson 1786, Coors 1873)",Molson Coors Brewing Company,Consumer Staples,3.0
+TDC,,,,,,,,Teradata Corp.,Information Technology,8.0
+TE,,,,,,,,TECO Energy,Utilities,11.0
+TEG,,,,,,,,Integrys Energy Group Inc.,Utilities,11.0
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",10/17/2011,1385157.0,2007,TE Connectivity Ltd.,Information Technology,8.0
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,"North Reading, Massachusetts",9/21/2020,97210.0,1960,Teradyne Inc.,Information Technology,8.0
+TEX,,,,,,,,,,
+TGNA,,,,,,,,,,
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,"Minneapolis, Minnesota",12/31/1976,27419.0,1902,Target Corp.,Consumer Discretionary,2.0
+THC,,,,,,,,Tenet Healthcare Corp.,Health Care,6.0
+TIE,,,,,,,,Titanium Metals Corp,Materials,9.0
+TIF,,,,,,,,Tiffany & Co.,Consumer Discretionary,2.0
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",9/30/1985,109198.0,1987,TJX Companies Inc.,Consumer Discretionary,2.0
+TLAB,,,,,,,,,,
+TMK,,,,,,,,Torchmark Corp.,Financials,5.0
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",8/3/2004,97745.0,2006 (1902),Thermo Fisher Scientific,Health Care,6.0
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",9/1/2004,1116132.0,2017,,,
+TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169.0,1937,T. Rowe Price Group,Financials,5.0
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,"New York City, New York",8/21/2002,86312.0,1853,The Travelers Companies Inc.,Financials,5.0
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",8/10/2005,100493.0,1935,Tyson Foods,Consumer Staples,3.0
+TT,Trane Technologies,Industrials,Building Products,"Dublin, Ireland",11/17/2010,1466258.0,1871,,,
+TWX,,,,,,,,Time Warner Inc.,Consumer Discretionary,2.0
+TXN,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",,97476.0,1930,Texas Instruments,Information Technology,8.0
+TXT,Textron,Industrials,Aerospace & Defense,"Providence, Rhode Island",12/31/1978,217346.0,1923,Textron Inc.,Industrials,7.0
+UIS,,,,,,,,,,
+UNH,UnitedHealth Group,Health Care,Managed Health Care,"Minnetonka, Minnesota",7/1/1994,731766.0,1977,United Health Group Inc.,Health Care,6.0
+UNM,,,,,,,,Unum Group,Financials,5.0
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,"Omaha, Nebraska",3/4/1957,100885.0,1862,Union Pacific,Industrials,7.0
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",7/22/2002,1090727.0,1907,United Parcel Service,Industrials,7.0
+USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",,36104.0,1968,U.S. Bancorp,Financials,5.0
+UST,,,,,,,,,,
+UTX,,,,,,,,United Technologies,Industrials,7.0
+VAR,,,,,,,,Varian Medical Systems,Health Care,6.0
+VFC,VF Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",6/30/1979,103379.0,1899,V.F. Corp.,Consumer Discretionary,2.0
+VIAB,,,,,,,,Viacom Inc.,Consumer Discretionary,2.0
+VIAV,,,,,,,,,,
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",12/20/2002,1035002.0,1980,Valero Energy,Energy,4.0
+VMC,Vulcan Materials Company,Materials,Construction Materials,"Birmingham, Alabama",6/30/1999,1396009.0,1909,Vulcan Materials,Materials,9.0
+VNO,,,,,,,,Vornado Realty Trust,Financials,5.0
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",2/1/2006,1014473.0,1995,Verisign Inc.,Information Technology,8.0
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",11/30/1983,732712.0,1983 (1877),Verizon Communications,Telecommunications Services,10.0
+WAMUQ,,,,,,,,,,
+WAT,Waters Corporation,Health Care,Health Care Distributors,"Milford, Massachusetts",1/2/2002,1000697.0,1958,Waters Corporation,Health Care,6.0
+WB,,,,,,,,,,
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,"Deerfield, Illinois",12/31/1979,1618921.0,2014,,,
+WEN,,,,,,,,,,
+WFC,Wells Fargo,Financials,Diversified Banks,"San Francisco, California",6/30/1976,72971.0,1852,Wells Fargo,Financials,5.0
+WFM,,,,,,,,Whole Foods Market,Consumer Staples,3.0
+WFT,,,,,,,,,,
+WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640.0,1911,Whirlpool Corp.,Consumer Discretionary,2.0
+WIN,,,,,,,,Windstream Corporation,Telecommunications Services,10.0
+WM,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",,823768.0,1968,Waste Management Inc.,Industrials,7.0
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",3/31/1975,107263.0,1908,Williams Cos.,Energy,4.0
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",8/31/1982,104169.0,1962,Wal-Mart Stores,Consumer Staples,3.0
+WU,,,,,,,,Western Union Co,Information Technology,8.0
+WWY,,,,,,,,,,
+WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",,106535.0,1900,Weyerhaeuser Corp.,Financials,5.0
+WYE,,,,,,,,,,
+WYND,,,,,,,,,,
+X,,,,,,,,United States Steel Corp.,Materials,9.0
+XEL,Xcel Energy,Utilities,Multi-Utilities,"Minneapolis, Minnesota",3/4/1957,72903.0,1909,Xcel Energy Inc,Utilities,11.0
+XL,,,,,,,,XL Capital,Financials,5.0
+XLNX,,,,,,,,Xilinx Inc,Information Technology,8.0
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",3/4/1957,34088.0,1999,Exxon Mobil Corp.,Energy,4.0
+XRX,,,,,,,,Xerox Corp.,Information Technology,8.0
+XTO,,,,,,,,,,
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,"Louisville, Kentucky",10/6/1997,1041061.0,1997,Yum! Brands Inc,Consumer Discretionary,2.0
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,"Warsaw, Indiana",8/7/2001,1136869.0,1927,,,
+ZION,Zions Bancorporation,Financials,Regional Banks,"Salt Lake City, Utah",6/22/2001,109380.0,1873,Zions Bancorp,Financials,5.0

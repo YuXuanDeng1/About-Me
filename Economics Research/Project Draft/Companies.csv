@@ -1,0 +1,501 @@
+﻿TICKER,Name,Sector,Sector_Code
+ANF,Abercrombie & Fitch Company A,Consumer,1
+AMZN,Amazon.com Inc,Consumer,1
+APOL,Apollo Group Inc,Consumer,1
+AN,AutoNation Inc,Consumer,1
+AZO,AutoZone Inc,Consumer,1
+BEAM,Beam Inc.,Consumer,1
+BBBY,Bed Bath & Beyond,Consumer,1
+BBY,Best Buy Co. Inc.,Consumer,1
+BIG,Big Lots Inc.,Consumer,1
+HRB,Block H&R,Consumer,1
+BWA,BorgWarner,Consumer,1
+CVC,Cablevision Systems Corp.,Consumer,1
+KMX,Carmax Inc,Consumer,1
+CCL,Carnival Corp.,Consumer,1
+CBS,CBS Corp.,Consumer,1
+CMG,Chipotle Mexican Grill,Consumer,1
+COH,Coach Inc.,Consumer,1
+CMCSA,Comcast Corp.,Consumer,1
+DHI,D. R. Horton,Consumer,1
+DRI,Darden Restaurants,Consumer,1
+DV,"DeVry, Inc.",Consumer,1
+DTV,DirecTV,Consumer,1
+DISCA,Discovery Communications,Consumer,1
+DLTR,Dollar Tree,Consumer,1
+EXPE,Expedia Inc.,Consumer,1
+FDO,Family Dollar Stores,Consumer,1
+F,Ford Motor,Consumer,1
+FOSL,"Fossil, Inc.",Consumer,1
+GME,GameStop Corp.,Consumer,1
+GCI,Gannett Co.,Consumer,1
+GPS,Gap (The),Consumer,1
+GPC,Genuine Parts,Consumer,1
+GT,Goodyear Tire & Rubber,Consumer,1
+HOG,Harley-Davidson,Consumer,1
+HAR,Harman Int'l Industries,Consumer,1
+HAS,Hasbro Inc.,Consumer,1
+HD,Home Depot,Consumer,1
+IGT,International Game Technology,Consumer,1
+IPG,Interpublic Group,Consumer,1
+JCI,Johnson Controls,Consumer,1
+KSS,Kohl's Corp.,Consumer,1
+LEG,Leggett & Platt,Consumer,1
+LEN,Lennar Corp.,Consumer,1
+LTD,Limited Brands Inc.,Consumer,1
+LOW,Lowe's Cos.,Consumer,1
+M,Macy's Inc.,Consumer,1
+MAR,Marriott Int'l.,Consumer,1
+MAT,Mattel Inc.,Consumer,1
+MCD,McDonald's Corp.,Consumer,1
+MHP,McGraw-Hill,Consumer,1
+NWL,Newell Rubbermaid Co.,Consumer,1
+NWSA,News Corporation,Consumer,1
+NKE,NIKE Inc.,Consumer,1
+JWN,Nordstrom,Consumer,1
+ORLY,O'Reilly Automotive,Consumer,1
+OMC,Omnicom Group,Consumer,1
+JCP,Penney (J.C.),Consumer,1
+RL,Polo Ralph Lauren Corp.,Consumer,1
+PHM,Pulte Homes Inc.,Consumer,1
+ROST,Ross Stores Inc.,Consumer,1
+SNI,Scripps Networks Interactive Inc.,Consumer,1
+SHLD,Sears Holdings Corporation,Consumer,1
+SHW,Sherwin-Williams,Consumer,1
+SNA,Snap-On Inc.,Consumer,1
+SWK,Stanley Black & Decker,Consumer,1
+SPLS,Staples Inc.,Consumer,1
+SBUX,Starbucks Corp.,Consumer,1
+HOT,Starwood Hotels & Resorts,Consumer Discretionary,2
+TGT,Target Corp.,Consumer Discretionary,2
+TIF,Tiffany & Co.,Consumer Discretionary,2
+TWX,Time Warner Inc.,Consumer Discretionary,2
+TWC,Time Warner Cable Inc.,Consumer Discretionary,2
+TJX,TJX Companies Inc.,Consumer Discretionary,2
+TRIP,TripAdvisor,Consumer Discretionary,2
+URBN,Urban Outfitters,Consumer Discretionary,2
+VFC,V.F. Corp.,Consumer Discretionary,2
+VIAB,Viacom Inc.,Consumer Discretionary,2
+DIS,Walt Disney Co.,Consumer Discretionary,2
+WPO,Washington Post Co B,Consumer Discretionary,2
+WHR,Whirlpool Corp.,Consumer Discretionary,2
+WYN,Wyndham Worldwide,Consumer Discretionary,2
+WYNN,Wynn Resorts Ltd,Consumer Discretionary,2
+YUM,Yum! Brands Inc,Consumer Discretionary,2
+MO,Altria Group Inc,Consumer Staples,3
+ADM,Archer-Daniels-Midland Co,Consumer Staples,3
+AVP,Avon Products,Consumer Staples,3
+BF.B,Brown-Forman Corporation,Consumer Staples,3
+CPB,Campbell Soup,Consumer Staples,3
+CLX,Clorox Co.,Consumer Staples,3
+KO,Coca Cola Co.,Consumer Staples,3
+CCE,Coca-Cola Enterprises,Consumer Staples,3
+CL,Colgate-Palmolive,Consumer Staples,3
+CAG,ConAgra Foods Inc.,Consumer Staples,3
+STZ,Constellation Brands,Consumer Staples,3
+COST,Costco Co.,Consumer Staples,3
+CVS,CVS Caremark Corp.,Consumer Staples,3
+DF,Dean Foods,Consumer Staples,3
+DPS,Dr Pepper Snapple Group,Consumer Staples,3
+EL,Estee Lauder Cos.,Consumer Staples,3
+GIS,General Mills,Consumer Staples,3
+HNZ,Heinz (H.J.),Consumer Staples,3
+HRL,Hormel Foods Corp.,Consumer Staples,3
+K,Kellogg Co.,Consumer Staples,3
+KMB,Kimberly-Clark,Consumer Staples,3
+KFT,Kraft Foods Inc-A,Consumer Staples,3
+KR,Kroger Co.,Consumer Staples,3
+LO,Lorillard Inc.,Consumer Staples,3
+MKC,McCormick & Co.,Consumer Staples,3
+MJN,Mead Johnson,Consumer Staples,3
+TAP,Molson Coors Brewing Company,Consumer Staples,3
+MNST,Monster Beverage,Consumer Staples,3
+PEP,PepsiCo Inc.,Consumer Staples,3
+PM,Philip Morris International,Consumer Staples,3
+PG,Procter & Gamble,Consumer Staples,3
+RAI,Reynolds American Inc.,Consumer Staples,3
+SWY,Safeway Inc.,Consumer Staples,3
+SJM,Smucker (J.M.),Consumer Staples,3
+SYY,Sysco Corp.,Consumer Staples,3
+HSY,The Hershey Company,Consumer Staples,3
+TSN,Tyson Foods,Consumer Staples,3
+WMT,Wal-Mart Stores,Consumer Staples,3
+WAG,Walgreen Co.,Consumer Staples,3
+WFM,Whole Foods Market,Consumer Staples,3
+ANR,Alpha Natural Resources,Energy,4
+APC,Anadarko Petroleum Corp,Energy,4
+APA,Apache Corporation,Energy,4
+BHI,Baker Hughes Inc,Energy,4
+COG,Cabot Oil & Gas,Energy,4
+CAM,Cameron International Corp.,Energy,4
+CHK,Chesapeake Energy,Energy,4
+CVX,Chevron Corp.,Energy,4
+COP,ConocoPhillips,Energy,4
+CNX,CONSOL Energy Inc.,Energy,4
+DNR,Denbury Resources Inc.,Energy,4
+DVN,Devon Energy Corp.,Energy,4
+DO,Diamond Offshore Drilling,Energy,4
+ESV,Ensco plc,Energy,4
+EOG,EOG Resources,Energy,4
+XOM,Exxon Mobil Corp.,Energy,4
+FTI,FMC Technologies Inc.,Energy,4
+HAL,Halliburton Co.,Energy,4
+HP,Helmerich & Payne,Energy,4
+HES,Hess Corporation,Energy,4
+KMI,Kinder Morgan,Energy,4
+MRO,Marathon Oil Corp.,Energy,4
+MPC,Marathon Petroleum,Energy,4
+MUR,Murphy Oil,Energy,4
+NBR,Nabors Industries Ltd.,Energy,4
+NOV,National Oilwell Varco Inc.,Energy,4
+NFX,Newfield Exploration Co,Energy,4
+NE,Noble Corp,Energy,4
+NBL,Noble Energy Inc,Energy,4
+OXY,Occidental Petroleum,Energy,4
+BTU,Peabody Energy,Energy,4
+PSX,Phillips 66,Energy,4
+PXD,Pioneer Natural Resources,Energy,4
+RRC,Range Resources Corp.,Energy,4
+RDC,Rowan Cos.,Energy,4
+SLB,Schlumberger Ltd.,Energy,4
+SWN,Southwestern Energy,Energy,4
+SE,Spectra Energy Corp.,Energy,4
+SUN,Sunoco Inc.,Energy,4
+TSO,Tesoro Petroleum Co.,Energy,4
+VLO,Valero Energy,Energy,4
+WMB,Williams Cos.,Energy,4
+WPX,"WPX Energy, Inc.",Energy,4
+ACE,ACE Limited,Financials,5
+AFL,AFLAC Inc,Financials,5
+ALL,Allstate Corp,Financials,5
+AXP,American Express Co,Financials,5
+AIG,American Intl Group Inc,Financials,5
+AMT,American Tower Corp A,Financials,5
+AMP,Ameriprise Financial,Financials,5
+AON,Aon plc,Financials,5
+AIV,Apartment Investment & Mgmt,Financials,5
+AIZ,Assurant Inc,Financials,5
+AVB,"AvalonBay Communities, Inc.",Financials,5
+BAC,Bank of America Corp,Financials,5
+BK,The Bank of New York Mellon Corp.,Financials,5
+BBT,BB&T Corporation,Financials,5
+BRK.B,Berkshire Hathaway,Financials,5
+BLK,BlackRock,Financials,5
+BXP,Boston Properties,Financials,5
+COF,Capital One Financial,Financials,5
+CBG,CBRE Group,Financials,5
+SCHW,Charles Schwab,Financials,5
+CB,Chubb Corp.,Financials,5
+CINF,Cincinnati Financial,Financials,5
+C,Citigroup Inc.,Financials,5
+CME,CME Group Inc.,Financials,5
+CMA,Comerica Inc.,Financials,5
+DFS,Discover Financial Services,Financials,5
+ETFC,E-Trade,Financials,5
+EFX,Equifax Inc.,Financials,5
+EQR,Equity Residential,Financials,5
+FII,Federated Investors Inc.,Financials,5
+FITB,Fifth Third Bancorp,Financials,5
+FHN,First Horizon National,Financials,5
+BEN,Franklin Resources,Financials,5
+GNW,Genworth Financial Inc.,Financials,5
+GS,Goldman Sachs Group,Financials,5
+HIG,Hartford Financial Svc.Gp.,Financials,5
+HCP,HCP Inc.,Financials,5
+HCN,Health Care REIT,Financials,5
+HST,Host Hotels & Resorts,Financials,5
+HCBK,Hudson City Bancorp,Financials,5
+HBAN,Huntington Bancshares,Financials,5
+ICE,IntercontinentalExchange Inc.,Financials,5
+IVZ,Invesco Ltd.,Financials,5
+JPM,JPMorgan Chase & Co.,Financials,5
+KEY,KeyCorp,Financials,5
+KIM,Kimco Realty,Financials,5
+LM,Legg Mason,Financials,5
+LUK,Leucadia National Corp.,Financials,5
+LNC,Lincoln National,Financials,5
+L,Loews Corp.,Financials,5
+MTB,M&T Bank Corp.,Financials,5
+MMC,Marsh & McLennan,Financials,5
+MET,MetLife Inc.,Financials,5
+MCO,Moody's Corp,Financials,5
+MS,Morgan Stanley,Financials,5
+NDAQ,NASDAQ OMX Group,Financials,5
+NTRS,Northern Trust Corp.,Financials,5
+NYX,NYSE Euronext,Financials,5
+PBCT,People's United Bank,Financials,5
+PCL,Plum Creek Timber Co.,Financials,5
+PNC,PNC Financial Services,Financials,5
+PFG,Principal Financial Group,Financials,5
+PGR,Progressive Corp.,Financials,5
+PLD,ProLogis,Financials,5
+PRU,Prudential Financial,Financials,5
+PSA,Public Storage,Financials,5
+RF,Regions Financial Corp.,Financials,5
+SPG,Simon Property Group Inc,Financials,5
+SLM,SLM Corporation,Financials,5
+STT,State Street Corp.,Financials,5
+STI,SunTrust Banks,Financials,5
+TROW,T. Rowe Price Group,Financials,5
+TRV,The Travelers Companies Inc.,Financials,5
+TMK,Torchmark Corp.,Financials,5
+USB,U.S. Bancorp,Financials,5
+UNM,Unum Group,Financials,5
+VTR,Ventas Inc,Financials,5
+VNO,Vornado Realty Trust,Financials,5
+WFC,Wells Fargo,Financials,5
+WY,Weyerhaeuser Corp.,Financials,5
+XL,XL Capital,Financials,5
+ZION,Zions Bancorp,Financials,5
+ABT,Abbott Laboratories,Health Care,6
+AET,Aetna Inc,Health Care,6
+A,Agilent Technologies Inc,Health Care,6
+ALXN,Alexion Pharmaceuticals,Health Care,6
+AGN,Allergan Inc,Health Care,6
+ABC,AmerisourceBergen Corp,Health Care,6
+AMGN,Amgen Inc,Health Care,6
+BCR,Bard (C.R.) Inc.,Health Care,6
+BAX,Baxter International Inc.,Health Care,6
+BDX,Becton Dickinson,Health Care,6
+BIIB,BIOGEN IDEC Inc.,Health Care,6
+BSX,Boston Scientific,Health Care,6
+BMY,Bristol-Myers Squibb,Health Care,6
+CAH,Cardinal Health Inc.,Health Care,6
+CFN,Carefusion,Health Care,6
+CELG,Celgene Corp.,Health Care,6
+CERN,Cerner,Health Care,6
+CI,CIGNA Corp.,Health Care,6
+CVH,Coventry Health Care Inc.,Health Care,6
+COV,Covidien plc,Health Care,6
+DVA,DaVita Inc.,Health Care,6
+XRAY,Dentsply International,Health Care,6
+EW,Edwards Lifesciences,Health Care,6
+ESRX,Express Scripts,Health Care,6
+FRX,Forest Laboratories,Health Care,6
+GILD,Gilead Sciences,Health Care,6
+HSP,Hospira Inc.,Health Care,6
+HUM,Humana Inc.,Health Care,6
+ISRG,Intuitive Surgical Inc.,Health Care,6
+JNJ,Johnson & Johnson,Health Care,6
+LH,Laboratory Corp. of America Holding,Health Care,6
+LIFE,Life Technologies,Health Care,6
+LLY,Lilly (Eli) & Co.,Health Care,6
+MCK,McKesson Corp.,Health Care,6
+MDT,Medtronic Inc.,Health Care,6
+MRK,Merck & Co.,Health Care,6
+MYL,Mylan Inc.,Health Care,6
+PDCO,Patterson Companies,Health Care,6
+PKI,PerkinElmer,Health Care,6
+PRGO,Perrigo,Health Care,6
+PFE,Pfizer Inc.,Health Care,6
+DGX,Quest Diagnostics,Health Care,6
+STJ,St Jude Medical,Health Care,6
+SYK,Stryker Corp.,Health Care,6
+THC,Tenet Healthcare Corp.,Health Care,6
+TMO,Thermo Fisher Scientific,Health Care,6
+UNH,United Health Group Inc.,Health Care,6
+VAR,Varian Medical Systems,Health Care,6
+WAT,Waters Corporation,Health Care,6
+WPI,Watson Pharmaceuticals,Health Care,6
+WLP,WellPoint Inc.,Health Care,6
+ZMH,Zimmer Holdings,Health Care,6
+MMM,3M Co.,Industrials,7
+APH,Amphenol Corp A,Industrials,7
+AVY,Avery Dennison Corp,Industrials,7
+BA,Boeing Company,Industrials,7
+CHRW,C. H. Robinson Worldwide,Industrials,7
+CAT,Caterpillar Inc.,Industrials,7
+CTAS,Cintas Corporation,Industrials,7
+CBE,Cooper Industries,Industrials,7
+GLW,Corning Inc.,Industrials,7
+CSX,CSX Corp.,Industrials,7
+CMI,Cummins Inc.,Industrials,7
+DHR,Danaher Corp.,Industrials,7
+DE,Deere & Co.,Industrials,7
+RRD,Donnelley (R.R.) & Sons,Industrials,7
+DOV,Dover Corp.,Industrials,7
+DNB,Dun & Bradstreet,Industrials,7
+ETN,Eaton Corp.,Industrials,7
+EMR,Emerson Electric,Industrials,7
+EXPD,Expeditors Int'l,Industrials,7
+FAST,Fastenal Co,Industrials,7
+FDX,FedEx Corporation,Industrials,7
+FSLR,First Solar Inc,Industrials,7
+FLS,Flowserve Corporation,Industrials,7
+FLR,Fluor Corp.,Industrials,7
+GD,General Dynamics,Industrials,7
+GE,General Electric,Industrials,7
+GWW,Grainger (W.W.) Inc.,Industrials,7
+HON,Honeywell Int'l Inc.,Industrials,7
+ITW,Illinois Tool Works,Industrials,7
+IR,Ingersoll-Rand PLC,Industrials,7
+IRM,Iron Mountain Incorporated,Industrials,7
+JEC,Jacobs Engineering Group,Industrials,7
+JOY,Joy Global Inc.,Industrials,7
+LLL,L-3 Communications Holdings,Industrials,7
+LMT,Lockheed Martin Corp.,Industrials,7
+MAS,Masco Corp.,Industrials,7
+NSC,Norfolk Southern Corp.,Industrials,7
+NOC,Northrop Grumman Corp.,Industrials,7
+PCAR,PACCAR Inc.,Industrials,7
+PLL,Pall Corp.,Industrials,7
+PH,Parker-Hannifin,Industrials,7
+PBI,Pitney-Bowes,Industrials,7
+PCP,Precision Castparts,Industrials,7
+PCLN,Priceline.com Inc,Industrials,7
+PWR,Quanta Services Inc.,Industrials,7
+RTN,Raytheon Co.,Industrials,7
+RSG,Republic Services Inc,Industrials,7
+RHI,Robert Half International,Industrials,7
+ROK,Rockwell Automation Inc.,Industrials,7
+COL,Rockwell Collins,Industrials,7
+ROP,Roper Industries,Industrials,7
+R,Ryder System,Industrials,7
+LUV,Southwest Airlines,Industrials,7
+SRCL,Stericycle Inc,Industrials,7
+TXT,Textron Inc.,Industrials,7
+TYC,Tyco International,Industrials,7
+UNP,Union Pacific,Industrials,7
+UPS,United Parcel Service,Industrials,7
+UTX,United Technologies,Industrials,7
+WM,Waste Management Inc.,Industrials,7
+XYL,Xylem Inc.,Industrials,7
+ACN,Accenture,Information Technology,8
+ADBE,Adobe Systems Inc,Information Technology,8
+AMD,Advanced Micro Devices,Information Technology,8
+AKAM,Akamai Technologies Inc,Information Technology,8
+ALTR,Altera Corp,Information Technology,8
+ADI,Analog Devices Inc,Information Technology,8
+AAPL,Apple Inc.,Information Technology,8
+AMAT,Applied Materials Inc,Information Technology,8
+ADSK,Autodesk Inc,Information Technology,8
+ADP,Automatic Data Processing,Information Technology,8
+BMC,BMC Software,Information Technology,8
+BRCM,Broadcom Corporation,Information Technology,8
+CA,"CA, Inc.",Information Technology,8
+CSCO,Cisco Systems,Information Technology,8
+CTXS,Citrix Systems,Information Technology,8
+CTSH,Cognizant Technology Solutions,Information Technology,8
+CSC,Computer Sciences Corp.,Information Technology,8
+DELL,Dell Inc.,Information Technology,8
+EBAY,eBay Inc.,Information Technology,8
+EA,Electronic Arts,Information Technology,8
+EMC,EMC Corp.,Information Technology,8
+FFIV,F5 Networks,Information Technology,8
+FIS,Fidelity National Information Services,Information Technology,8
+FISV,Fiserv Inc,Information Technology,8
+FLIR,FLIR Systems,Information Technology,8
+GOOG,Google Inc.,Information Technology,8
+HRS,Harris Corporation,Information Technology,8
+HPQ,Hewlett-Packard,Information Technology,8
+INTC,Intel Corp.,Information Technology,8
+IBM,International Bus. Machines,Information Technology,8
+INTU,Intuit Inc.,Information Technology,8
+JBL,Jabil Circuit,Information Technology,8
+JDSU,JDS Uniphase Corp.,Information Technology,8
+JNPR,Juniper Networks,Information Technology,8
+KLAC,KLA-Tencor Corp.,Information Technology,8
+LRCX,Lam Research,Information Technology,8
+LXK,Lexmark Int'l Inc,Information Technology,8
+LLTC,Linear Technology Corp.,Information Technology,8
+LSI,LSI Corporation,Information Technology,8
+MA,Mastercard Inc.,Information Technology,8
+MCHP,Microchip Technology,Information Technology,8
+MU,Micron Technology,Information Technology,8
+MSFT,Microsoft Corp.,Information Technology,8
+MOLX,Molex Inc.,Information Technology,8
+MSI,Motorola Solutions Inc.,Information Technology,8
+NTAP,NetApp,Information Technology,8
+NFLX,NetFlix Inc.,Information Technology,8
+NVDA,Nvidia Corporation,Information Technology,8
+ORCL,Oracle Corp.,Information Technology,8
+PAYX,Paychex Inc.,Information Technology,8
+QCOM,QUALCOMM Inc.,Information Technology,8
+RHT,Red Hat Inc.,Information Technology,8
+SAI,SAIC,Information Technology,8
+CRM,Salesforce,Information Technology,8
+SNDK,SanDisk Corporation,Information Technology,8
+STX,Seagate Technology,Information Technology,8
+SYMC,Symantec Corp.,Information Technology,8
+TEL,TE Connectivity Ltd.,Information Technology,8
+TDC,Teradata Corp.,Information Technology,8
+TER,Teradyne Inc.,Information Technology,8
+TXN,Texas Instruments,Information Technology,8
+TSS,Total System Services,Information Technology,8
+VRSN,Verisign Inc.,Information Technology,8
+V,Visa Inc.,Information Technology,8
+WDC,Western Digital,Information Technology,8
+WU,Western Union Co,Information Technology,8
+XRX,Xerox Corp.,Information Technology,8
+XLNX,Xilinx Inc,Information Technology,8
+YHOO,Yahoo Inc.,Information Technology,8
+APD,Air Products & Chemicals Inc,Materials,9
+ARG,Airgas Inc,Materials,9
+AA,Alcoa Inc,Materials,9
+ATI,Allegheny Technologies Inc,Materials,9
+BLL,Ball Corp,Materials,9
+BMS,Bemis Company,Materials,9
+CF,CF Industries Holdings Inc,Materials,9
+CLF,Cliffs Natural Resources,Materials,9
+DOW,Dow Chemical,Materials,9
+DD,Du Pont (E.I.),Materials,9
+EMN,Eastman Chemical,Materials,9
+ECL,Ecolab Inc.,Materials,9
+FMC,FMC Corporation,Materials,9
+FCX,Freeport-McMoran Cp & Gld,Materials,9
+IFF,International Flav/Frag,Materials,9
+IP,International Paper,Materials,9
+MWV,MeadWestvaco Corporation,Materials,9
+MON,Monsanto Co.,Materials,9
+MOS,The Mosaic Company,Materials,9
+NEM,Newmont Mining Corp. (Hldg. Co.),Materials,9
+NUE,Nucor Corp.,Materials,9
+OI,Owens-Illinois Inc,Materials,9
+PPG,PPG Industries,Materials,9
+PX,Praxair Inc.,Materials,9
+SEE,Sealed Air Corp.(New),Materials,9
+SIAL,Sigma-Aldrich,Materials,9
+TIE,Titanium Metals Corp,Materials,9
+X,United States Steel Corp.,Materials,9
+VMC,Vulcan Materials,Materials,9
+T,AT&T Inc,Telecommunications Services,10
+CTL,CenturyLink Inc,Telecommunications Services,10
+CCI,Crown Castle International Corp.,Telecommunications Services,10
+FTR,Frontier Communications,Telecommunications Services,10
+PCS,MetroPCS Communications Inc.,Telecommunications Services,10
+S,Sprint Nextel Corp.,Telecommunications Services,10
+VZ,Verizon Communications,Telecommunications Services,10
+WIN,Windstream Corporation,Telecommunications Services,10
+AES,AES Corp,Utilities,11
+GAS,AGL Resources Inc.,Utilities,11
+AEE,Ameren Corp,Utilities,11
+AEP,American Electric Power,Utilities,11
+CNP,CenterPoint Energy,Utilities,11
+CMS,CMS Energy,Utilities,11
+ED,Consolidated Edison,Utilities,11
+D,Dominion Resources,Utilities,11
+DTE,DTE Energy Co.,Utilities,11
+DUK,Duke Energy,Utilities,11
+EIX,Edison Int'l,Utilities,11
+ETR,Entergy Corp.,Utilities,11
+EQT,EQT Corporation,Utilities,11
+EXC,Exelon Corp.,Utilities,11
+FE,FirstEnergy Corp,Utilities,11
+TEG,Integrys Energy Group Inc.,Utilities,11
+NEE,NextEra Energy Resources,Utilities,11
+NI,NiSource Inc.,Utilities,11
+NU,Northeast Utilities,Utilities,11
+NRG,NRG Energy,Utilities,11
+OKE,ONEOK,Utilities,11
+POM,Pepco Holdings Inc.,Utilities,11
+PCG,PG&E Corp.,Utilities,11
+PNW,Pinnacle West Capital,Utilities,11
+PPL,PPL Corp.,Utilities,11
+PEG,Public Serv. Enterprise Inc.,Utilities,11
+QEP,QEP Resources,Utilities,11
+SCG,SCANA Corp,Utilities,11
+SRE,Sempra Energy,Utilities,11
+SO,Southern Co.,Utilities,11
+TE,TECO Energy,Utilities,11
+WEC,Wisconsin Energy Corporation,Utilities,11
+XEL,Xcel Energy Inc,Utilities,11
